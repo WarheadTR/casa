@@ -13,7 +13,7 @@ You can use it without restrictive licenses.
 Developer: Recep BALBAY <rbalbay@gmail.com>
 
 
-RB_indexer
+rb_indexer
 ===============
 
 Before installation you have to define your CASAPATH into PATH. Otherwise script gives PATH error!
