@@ -41,7 +41,7 @@ Usage in CASA
 
 You can use this rbindex after mstransform, split or split2 operations.
 
-Also rbmap function converts old input strings ('0~10:200' to '0~9:200') in spw and field.
+Also rbmap function converts old input strings ('0-10:200' to '0-9:200') in spw and field.
 Then you can use new string values in tools like clean, tclean or etc.
 
 [0] from rbindexer import rbindex, rbmap
